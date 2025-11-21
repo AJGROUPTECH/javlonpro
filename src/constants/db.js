@@ -46,7 +46,7 @@ export function getData() {
 			title: 'TypeScript',
 			price: 22.99,
 			Image:
-				'https://sammi.ac/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FfZ3plnBeRQ2hJtZNbhNE&w=3840&q=75',
+				'https://www.sammi.ac/_next/image?url=https%3A%2F%2Fqk9g5hsrut.ufs.sh%2Ff%2Fxu965PmyvPo0E5lF6amAU8kioLXqN3YRt4exAMZ2yFscwGIl&w=1920&q=75&dpl=dpl_9sBEKp6Vtq4rX75YeLkgkG6tPcnw',
 			id: 7,
 		},
 		{
